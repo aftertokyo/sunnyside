@@ -1,0 +1,2 @@
+this was for an exercise that consisted in translating a pre-designer web page into code using HTML and CSS. The initial goal was to make it responsive in order for it to be viewed on a variety of screens. i used flexbox.
+i struggled a little to position the images & text to match the design but with some more practice i'll do it in no time
